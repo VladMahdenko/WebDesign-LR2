@@ -1,0 +1,9 @@
+#SignIn,
+#SignUp {
+  float: right;
+  margin-right: 20px;
+}
+
+.select {
+  display: block !important;
+}
